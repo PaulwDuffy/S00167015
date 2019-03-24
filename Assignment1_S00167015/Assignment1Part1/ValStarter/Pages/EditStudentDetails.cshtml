@@ -1,0 +1,113 @@
+﻿@page  "{id}"
+@model ValStarter.Pages.EditStudentDetailsModel
+@{
+}
+
+<h2> Editing Student: @Model.Student.PPS</h2>
+
+<form method="post">
+    <div asp-validation-summary="All"></div>
+    <div style="margin:5px">
+        <label asp-for=Student.FirstName></label>
+        <input asp-for=Student.FirstName>
+    </div>
+    <div style="margin:5px">
+        <label asp-for=Student.LastName></label>
+        <input asp-for=Student.LastName>
+    </div>
+    <div style="margin:5px">
+        <label asp-for=Student.PPS></label>
+        <input asp-for=Student.PPS>
+    </div>
+    <div style="margin:5px">
+        <label asp-for=Student.DOB></label>
+        <input asp-for=Student.DOB>
+    </div>
+
+    <div style="margin:5px">
+        <label asp-for=Student.Gender></label>
+        <input asp-for=Student.Gender>
+    </div>
+
+
+    @* <div asp-validation-summary="All"></div>*@
+    <div style="margin:5px">
+        <label asp-for=Parent.FirstName></label>
+        <input asp-for=Parent.FirstName>
+    </div>
+    <div style="margin:5px">
+        <label asp-for=Parent.LastName></label>
+        <input asp-for=Parent.LastName>
+    </div>
+    <div style="margin:5px">
+        <label asp-for=Parent.Relation></label>
+        <input asp-for=Parent.Relation>
+    </div>
+    <div style="margin:5px">
+        <label asp-for=Parent.Address1></label>
+        <input asp-for=Parent.Address1>
+    </div>
+
+    <div style="margin:5px">
+        <label asp-for=Parent.Address2></label>
+        <input asp-for=Parent.Address2>
+    </div>
+
+    <div style="margin:5px">
+        <label asp-for=Parent.Address3></label>
+        <input asp-for=Parent.Address3>
+    </div>
+    <div style="margin:5px">
+        <label asp-for=Parent.Mobile></label>
+        <input asp-for=Parent.Mobile>
+    </div>
+
+    <div style="margin:5px">
+        <label asp-for=Parent.Mobile2></label>
+        <input asp-for=Parent.Mobile2>
+    </div>
+
+    <div style="margin:5px">
+        <label asp-for=Parent.AltNumber></label>
+        <input asp-for=Parent.AltNumber>
+    </div>
+
+    <div style="margin:5px">
+        <label asp-for=Parent.Email></label>
+        <input asp-for=Parent.Email>
+    </div>
+
+    <div style="margin:5px">
+        <label asp-for=Parent.Email2></label>
+        <input asp-for=Parent.Email2>
+    </div>
+
+    <fieldset>
+        <legend> Choose Hours</legend>
+
+        <input type="radio" name="Full Time" value="Full Time" id="Full Time" /><label for="full time">Full Time</label>
+        <input type="radio" name="Part Time" value="Part Time" id="Part Time" /><label for="part time">Part Time</label>
+
+    </fieldset>
+
+
+
+
+    <fieldset>
+        <legend> Choose days required</legend>
+
+        <input type="checkbox" name="Monday" value="Monday" id="Monday" /><label for="Monday">monday</label>
+        <input type="checkbox" name="Tuesday" value="Tuesday" id="Tuesday" /><label for="Tuesday">tuesday</label>
+        <input type="checkbox" name="Wednesday" value="Wednesday" id="Wednesday" /><label for="Wednesday">wednesday</label>
+        <input type="checkbox" name="Thursday" value="Thursday" id="Thursday" /><label for="Thursday">thursday</label>
+        <input type="checkbox" name="Friday" value="Friday" id="Friday" /><label for="Friday">friday</label>
+    </fieldset>
+    
+
+        <div style="margin:5px">
+            <label asp-for=Parent.StartDate></label>
+            <input asp-for=Parent.StartDate>
+        </div>
+
+        <button type="submit">Submit</button>
+</form>

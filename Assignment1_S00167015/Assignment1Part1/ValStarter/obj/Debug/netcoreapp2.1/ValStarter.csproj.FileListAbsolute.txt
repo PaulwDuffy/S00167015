@@ -1,0 +1,22 @@
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.deps.json
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.runtimeconfig.json
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.runtimeconfig.dev.json
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.dll
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.pdb
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.csprojAssemblyReference.cache
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.csproj.CoreCompileInputs.cache
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.AssemblyInfoInputs.cache
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.AssemblyInfo.cs
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.dll
+C:\Users\T3600\Desktop\New folder (2)\valStarter-efstuff\valStarter-efstuff\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.pdb
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.deps.json
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.runtimeconfig.json
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.runtimeconfig.dev.json
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.dll
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\bin\Debug\netcoreapp2.1\ValStarter.pdb
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.csprojAssemblyReference.cache
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.csproj.CoreCompileInputs.cache
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.AssemblyInfoInputs.cache
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.AssemblyInfo.cs
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.dll
+C:\Users\T3600\Desktop\New folder (2)\New folder\Assignment1_S00167015\Assignment1Part1\ValStarter\obj\Debug\netcoreapp2.1\ValStarter.pdb

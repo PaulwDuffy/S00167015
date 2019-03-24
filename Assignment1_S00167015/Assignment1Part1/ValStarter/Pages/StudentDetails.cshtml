@@ -1,0 +1,22 @@
+﻿@page  "{id}"
+@model StudentDetailsModel
+@{
+}
+
+<table>
+    <tr>
+         <td>@Model.Student.StudentID</td>
+            <td>@Model.Student.FirstName</td>
+            <td>@Model.Student.LastName</td>
+            <td>@Model.Student.DOB</td>
+            <td>@Model.Student.NoOfModules</td>
+            <td>@Model.Student.Height</td>
+            <td>@Model.Student.Email</td>
+    </tr>
+</table>
+
+
+<form method="post">
+    <input type="hidden" asp-for=Student.StudentID>
+    <button type="submit">Delete</button>
+</form>
